@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SmartData\\Ed-Tech AI\\Client Details \u0026 Doc\\QuestionParser\\QuestionParser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{267A7537-7997-43C2-9742-DB3EF27D4970}|QParser.Entities\\QParser.Models.csproj|d:\\smartdata\\ed-tech ai\\client details \u0026 doc\\questionparser\\questionparser\\qparser.entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267A7537-7997-43C2-9742-DB3EF27D4970}|QParser.Entities\\QParser.Models.csproj|solutionrelative:qparser.entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F12CD60-6FBF-4737-A8E1-A348B428868A}|QParser\\QParser.Admin.csproj|d:\\smartdata\\ed-tech ai\\client details \u0026 doc\\questionparser\\questionparser\\qparser\\core\\wordprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F12CD60-6FBF-4737-A8E1-A348B428868A}|QParser\\QParser.Admin.csproj|solutionrelative:qparser\\core\\wordprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F12CD60-6FBF-4737-A8E1-A348B428868A}|QParser\\QParser.Admin.csproj|d:\\smartdata\\ed-tech ai\\client details \u0026 doc\\questionparser\\questionparser\\qparser\\core\\regexparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F12CD60-6FBF-4737-A8E1-A348B428868A}|QParser\\QParser.Admin.csproj|solutionrelative:qparser\\core\\regexparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F12CD60-6FBF-4737-A8E1-A348B428868A}|QParser\\QParser.Admin.csproj|d:\\smartdata\\ed-tech ai\\client details \u0026 doc\\questionparser\\questionparser\\qparser\\core\\imageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F12CD60-6FBF-4737-A8E1-A348B428868A}|QParser\\QParser.Admin.csproj|solutionrelative:qparser\\core\\imageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F12CD60-6FBF-4737-A8E1-A348B428868A}|QParser\\QParser.Admin.csproj|d:\\smartdata\\ed-tech ai\\client details \u0026 doc\\questionparser\\questionparser\\qparser\\core\\fileinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F12CD60-6FBF-4737-A8E1-A348B428868A}|QParser\\QParser.Admin.csproj|solutionrelative:qparser\\core\\fileinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F12CD60-6FBF-4737-A8E1-A348B428868A}|QParser\\QParser.Admin.csproj|d:\\smartdata\\ed-tech ai\\client details \u0026 doc\\questionparser\\questionparser\\qparser\\core\\extentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F12CD60-6FBF-4737-A8E1-A348B428868A}|QParser\\QParser.Admin.csproj|solutionrelative:qparser\\core\\extentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267A7537-7997-43C2-9742-DB3EF27D4970}|QParser.Entities\\QParser.Models.csproj|d:\\smartdata\\ed-tech ai\\client details \u0026 doc\\questionparser\\questionparser\\qparser.entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267A7537-7997-43C2-9742-DB3EF27D4970}|QParser.Entities\\QParser.Models.csproj|solutionrelative:qparser.entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F12CD60-6FBF-4737-A8E1-A348B428868A}|QParser\\QParser.Admin.csproj|d:\\smartdata\\ed-tech ai\\client details \u0026 doc\\questionparser\\questionparser\\qparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F12CD60-6FBF-4737-A8E1-A348B428868A}|QParser\\QParser.Admin.csproj|solutionrelative:qparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F12CD60-6FBF-4737-A8E1-A348B428868A}|QParser\\QParser.Admin.csproj|d:\\smartdata\\ed-tech ai\\client details \u0026 doc\\questionparser\\questionparser\\qparser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F12CD60-6FBF-4737-A8E1-A348B428868A}|QParser\\QParser.Admin.csproj|solutionrelative:qparser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:58661154:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\SmartData\\Ed-Tech AI\\Client Details \u0026 Doc\\QuestionParser\\QuestionParser\\QParser.Entities\\Course.cs",
+              "RelativeDocumentMoniker": "QParser.Entities\\Course.cs",
+              "ToolTip": "D:\\SmartData\\Ed-Tech AI\\Client Details \u0026 Doc\\QuestionParser\\QuestionParser\\QParser.Entities\\Course.cs",
+              "RelativeToolTip": "QParser.Entities\\Course.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:09:57.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileInitializer.cs",
+              "DocumentMoniker": "D:\\SmartData\\Ed-Tech AI\\Client Details \u0026 Doc\\QuestionParser\\QuestionParser\\QParser\\Core\\FileInitializer.cs",
+              "RelativeDocumentMoniker": "QParser\\Core\\FileInitializer.cs",
+              "ToolTip": "D:\\SmartData\\Ed-Tech AI\\Client Details \u0026 Doc\\QuestionParser\\QuestionParser\\QParser\\Core\\FileInitializer.cs",
+              "RelativeToolTip": "QParser\\Core\\FileInitializer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:05:44.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageConverter.cs",
+              "DocumentMoniker": "D:\\SmartData\\Ed-Tech AI\\Client Details \u0026 Doc\\QuestionParser\\QuestionParser\\QParser\\Core\\ImageConverter.cs",
+              "RelativeDocumentMoniker": "QParser\\Core\\ImageConverter.cs",
+              "ToolTip": "D:\\SmartData\\Ed-Tech AI\\Client Details \u0026 Doc\\QuestionParser\\QuestionParser\\QParser\\Core\\ImageConverter.cs",
+              "RelativeToolTip": "QParser\\Core\\ImageConverter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:05:43.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegexParser.cs",
+              "DocumentMoniker": "D:\\SmartData\\Ed-Tech AI\\Client Details \u0026 Doc\\QuestionParser\\QuestionParser\\QParser\\Core\\RegexParser.cs",
+              "RelativeDocumentMoniker": "QParser\\Core\\RegexParser.cs",
+              "ToolTip": "D:\\SmartData\\Ed-Tech AI\\Client Details \u0026 Doc\\QuestionParser\\QuestionParser\\QParser\\Core\\RegexParser.cs",
+              "RelativeToolTip": "QParser\\Core\\RegexParser.cs",
+              "ViewState": "AgIAADwBAAAAAAAAAAAvwGgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:05:41.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wordprocessor.cs",
+              "DocumentMoniker": "D:\\SmartData\\Ed-Tech AI\\Client Details \u0026 Doc\\QuestionParser\\QuestionParser\\QParser\\Core\\Wordprocessor.cs",
+              "RelativeDocumentMoniker": "QParser\\Core\\Wordprocessor.cs",
+              "ToolTip": "D:\\SmartData\\Ed-Tech AI\\Client Details \u0026 Doc\\QuestionParser\\QuestionParser\\QParser\\Core\\Wordprocessor.cs",
+              "RelativeToolTip": "QParser\\Core\\Wordprocessor.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAuwNYAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:05:40.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Extentions.cs",
+              "DocumentMoniker": "D:\\SmartData\\Ed-Tech AI\\Client Details \u0026 Doc\\QuestionParser\\QuestionParser\\QParser\\Core\\Extentions.cs",
+              "RelativeDocumentMoniker": "QParser\\Core\\Extentions.cs",
+              "ToolTip": "D:\\SmartData\\Ed-Tech AI\\Client Details \u0026 Doc\\QuestionParser\\QuestionParser\\QParser\\Core\\Extentions.cs",
+              "RelativeToolTip": "QParser\\Core\\Extentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:05:18.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\SmartData\\Ed-Tech AI\\Client Details \u0026 Doc\\QuestionParser\\QuestionParser\\QParser.Entities\\Exam.cs",
+              "RelativeDocumentMoniker": "QParser.Entities\\Exam.cs",
+              "ToolTip": "D:\\SmartData\\Ed-Tech AI\\Client Details \u0026 Doc\\QuestionParser\\QuestionParser\\QParser.Entities\\Exam.cs",
+              "RelativeToolTip": "QParser.Entities\\Exam.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:03:35.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SmartData\\Ed-Tech AI\\Client Details \u0026 Doc\\QuestionParser\\QuestionParser\\QParser\\appsettings.json",
+              "RelativeDocumentMoniker": "QParser\\appsettings.json",
+              "ToolTip": "D:\\SmartData\\Ed-Tech AI\\Client Details \u0026 Doc\\QuestionParser\\QuestionParser\\QParser\\appsettings.json",
+              "RelativeToolTip": "QParser\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T04:38:40.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SmartData\\Ed-Tech AI\\Client Details \u0026 Doc\\QuestionParser\\QuestionParser\\QParser\\Program.cs",
+              "RelativeDocumentMoniker": "QParser\\Program.cs",
+              "ToolTip": "D:\\SmartData\\Ed-Tech AI\\Client Details \u0026 Doc\\QuestionParser\\QuestionParser\\QParser\\Program.cs",
+              "RelativeToolTip": "QParser\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:38:33.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
